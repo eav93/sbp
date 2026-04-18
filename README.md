@@ -74,6 +74,36 @@ const banks: Bank[] = getBanks();
 const bank: Bank | null = getBankById('100000000111');
 ```
 
+### Python
+
+```python
+from src.banks import get_banks, get_bank_by_id, get_meta
+
+banks = get_banks()
+bank  = get_bank_by_id('100000000111')
+meta  = get_meta()
+```
+
+### Go
+
+```go
+import "github.com/eav93/sbp"
+
+banks := sbp.GetBanks()
+bank  := sbp.GetBankByID("100000000111")
+meta  := sbp.GetMeta()
+```
+
+### Ruby
+
+```ruby
+require_relative 'src/banks'
+
+banks = Eav93::Sbp.get_banks
+bank  = Eav93::Sbp.get_bank_by_id('100000000111')
+meta  = Eav93::Sbp.get_meta
+```
+
 ## Bank object
 
 | Field              | Type             | Description                        |
