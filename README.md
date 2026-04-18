@@ -1,3 +1,5 @@
+[English](README.md) | [Русский](README.ru.md)
+
 # eav93/sbp
 
 PHP & JS/TS library providing an up-to-date list of Russian SBP (Fast Payment System) member banks, auto-updated daily via GitHub Actions.
