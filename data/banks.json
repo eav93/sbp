@@ -1,0 +1,1916 @@
+{
+  "version": "1.0",
+  "updatedAt": "2026-04-18T22:15:47.765Z",
+  "banks": [
+    {
+      "id": "100000000111",
+      "name": "Сбербанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000111.png",
+      "schema": "bank100000000111",
+      "package": "ru.sberbankmobile",
+      "isDrActive": true,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000004",
+      "name": "Т-Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000004.png",
+      "schema": "bank100000000004",
+      "package": "com.idamob.tinkoff.android",
+      "isDrActive": true,
+      "isWebClientActive": true,
+      "webClientUrl": "https://www.tinkoff.ru/mybank/payments/qr-pay"
+    },
+    {
+      "id": "110000000005",
+      "name": "Банк ВТБ",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000005.png",
+      "schema": "bank110000000005",
+      "package": "ru.vtb24.mobilebanking.android",
+      "isDrActive": true,
+      "isWebClientActive": true,
+      "webClientUrl": "https://online.vtb.ru/i/paymentSbp"
+    },
+    {
+      "id": "100000000008",
+      "name": "АЛЬФА-БАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000008.png",
+      "schema": "bank100000000008",
+      "package": "ru.alfabank.mobile.android",
+      "isDrActive": true,
+      "isWebClientActive": true,
+      "webClientUrl": "https://alfa-mobile.alfabank.ru/mobile-public/goto/qr"
+    },
+    {
+      "id": "100000000007",
+      "name": "Райффайзенбанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000007.png",
+      "schema": "bank100000000007",
+      "package": "ru.raiffeisennews",
+      "isDrActive": true,
+      "isWebClientActive": true,
+      "webClientUrl": "https://online.raiffeisen.ru/outer/qr/qr.nspk.ru"
+    },
+    {
+      "id": "100000000001",
+      "name": "Газпромбанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000001.png",
+      "schema": "bank100000000001",
+      "package": "ru.gazprombank.android.mobilebank.app",
+      "isDrActive": true,
+      "isWebClientActive": true,
+      "webClientUrl": "https://sbpgpb.ru/c2bpayments"
+    },
+    {
+      "id": "100000000010",
+      "name": "Банк ПСБ",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000010.png",
+      "schema": "bank100000000010",
+      "package": "logo.com.mbanking",
+      "isDrActive": true,
+      "isWebClientActive": true,
+      "webClientUrl": "https://ib.psbank.ru/sbp/payment"
+    },
+    {
+      "id": "100000000013",
+      "name": "Совкомбанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000013.png",
+      "schema": "bank100000000013",
+      "package": "ru.sovcomcard.halva.v1",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://halvacard.ru/lk/qr"
+    },
+    {
+      "id": "100000000020",
+      "name": "Россельхозбанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000020.png",
+      "schema": "bank100000000020",
+      "package": "ru.rshb.dbo",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000025",
+      "name": "МОСКОВСКИЙ КРЕДИТНЫЙ БАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000025.png",
+      "schema": "bank100000000025",
+      "package": "ru.mkb.mobile",
+      "isDrActive": true,
+      "isWebClientActive": true,
+      "webClientUrl": "https://online.mkb.ru/go/c2b"
+    },
+    {
+      "id": "100000000030",
+      "name": "ЮниКредит Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000030.png",
+      "schema": "bank100000000030",
+      "package": "ru.unicredit.android",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://enter.unicredit.ru/c2b"
+    },
+    {
+      "id": "100000000003",
+      "name": "Банк Синара",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000003.png",
+      "schema": "bank100000000003",
+      "package": "ru.skbbank.ib",
+      "isDrActive": true,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000043",
+      "name": "Газэнергобанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000043.png",
+      "schema": "bank100000000043",
+      "package": "ru.gebank.ib",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000028",
+      "name": "АКБ АВАНГАРД",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000028.png",
+      "schema": "bank100000000028",
+      "package": "ru.avangard.sbp_client",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000086",
+      "name": "ПНКО ЭЛПЛАТ",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000086.png",
+      "schema": "bank100000000086",
+      "package": "ru.elplat.elplat2",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000044",
+      "name": "Экспобанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000044.png",
+      "schema": "bank100000000044",
+      "package": "ru.ftc.faktura.expobank",
+      "isDrActive": true,
+      "isWebClientActive": true,
+      "webClientUrl": "https://online.expobank.ru/fps/c2b"
+    },
+    {
+      "id": "100000000049",
+      "name": "Банк ВБРР",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000049.png",
+      "schema": "bank100000000049",
+      "package": "com.bssys.vbrrretail",
+      "isDrActive": true,
+      "isWebClientActive": true,
+      "webClientUrl": "https://online.vbrr.ru/redirect_anchor/external/fps"
+    },
+    {
+      "id": "100000000095",
+      "name": "АБ РОССИЯ",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000095.png",
+      "schema": "bank100000000095",
+      "package": "ru.artsofte.russiafl",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://i2.abr.ru/c2b/qr"
+    },
+    {
+      "id": "100000000056",
+      "name": "КБ Хлынов",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000056.png",
+      "schema": "bank100000000056",
+      "package": "ru.bank_hlynov.xbank",
+      "isDrActive": true,
+      "isWebClientActive": true,
+      "webClientUrl": "https://my.bank-hlynov.ru/sbp/qr"
+    },
+    {
+      "id": "100000000053",
+      "name": "Бланк банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000053.png",
+      "schema": "bank100000000053",
+      "package": "ru.ftc.faktura.vesta",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000121",
+      "name": "КБ Солидарность",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000121.png",
+      "schema": "bank100000000121",
+      "package": "com.isimplelab.ibank.solidarnost",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000082",
+      "name": "Банк ДОМ.РФ",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000082.png",
+      "schema": "bank100000000082",
+      "package": "com.bssys.roscapretail",
+      "isDrActive": true,
+      "isWebClientActive": true,
+      "webClientUrl": "https://my.domrfbank.ru/app/sbp/c2b"
+    },
+    {
+      "id": "100000000127",
+      "name": "Хакасский муниципальный банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000127.png",
+      "schema": "bank100000000127",
+      "package": "ru.ftc.faktura.kbhmb",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000017",
+      "name": "МТС-Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000017.png",
+      "schema": "bank100000000017",
+      "package": "ru.mts.money",
+      "isDrActive": true,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000087",
+      "name": "Банк ПСКБ",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000087.png",
+      "schema": "bank100000000087",
+      "package": "ru.ftc.faktura.pskb",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://dbo.pscb.ru/fps/c2b/"
+    },
+    {
+      "id": "100000000052",
+      "name": "Банк Левобережный",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000052.png",
+      "schema": "bank100000000052",
+      "package": "ru.ftc.faktura.nskbl",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://bl-online.nskbl.ru/fps/c2b"
+    },
+    {
+      "id": "100000000006",
+      "name": "АК БАРС БАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000006.png",
+      "schema": "bank100000000006",
+      "package": "ru.akbars.mobile",
+      "isDrActive": true,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000098",
+      "name": "КБ РостФинанс",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000098.png",
+      "schema": "bank100000000098",
+      "package": "ru.ftc.faktura.rostfinance",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://online.rostfinance.ru/petition/c2b_sbp/qr"
+    },
+    {
+      "id": "100000000092",
+      "name": "БыстроБанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000092.png",
+      "schema": "bank100000000092",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://www.bystrobank.ru/sbp/c2b/"
+    },
+    {
+      "id": "100000000229",
+      "name": "МС Банк Рус",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000229.png",
+      "schema": "bank100000000229",
+      "package": "ru.mcbankrus.MCBankRus",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000027",
+      "name": "Кредит Европа Банк (Россия)",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000027.png",
+      "schema": "bank100000000027",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000080",
+      "name": "АКБ Алмазэргиэнбанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000080.png",
+      "schema": "bank100000000080",
+      "package": "ru.albank.online.aebit",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000122",
+      "name": "ИК Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000122.png",
+      "schema": "bank100000000122",
+      "package": "com.bifit.mobile.citizen.icbru",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000124",
+      "name": "БАНК ОРЕНБУРГ",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000124.png",
+      "schema": "bank100000000124",
+      "package": "ru.ftc.faktura.orbank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000159",
+      "name": "АКБ Энергобанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000159.png",
+      "schema": "bank100000000159",
+      "package": "com.energobank.digital",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000146",
+      "name": "КОШЕЛЕВ-БАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000146.png",
+      "schema": "bank100000000146",
+      "package": "com.bifit.mobile.citizen.kbnk",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000069",
+      "name": "СДМ-Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000069.png",
+      "schema": "bank100000000069",
+      "package": "ru.ftc.faktura.sdm",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://online.sdm.ru/fps/c2b"
+    },
+    {
+      "id": "100000000140",
+      "name": "МБ Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000140.png",
+      "schema": "bank100000000140",
+      "package": "com.bifit.mobile.citizen.mbb",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000047",
+      "name": "АКБ Абсолют Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000047.png",
+      "schema": "bank100000000047",
+      "package": "ru.ftc.faktura.absolutbank",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://online.absolutbank.ru/fps/c2b"
+    },
+    {
+      "id": "100000000099",
+      "name": "КБ Модульбанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000099.png",
+      "schema": "bank100000000099",
+      "package": "ru.ftc.faktura.multibank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000135",
+      "name": "Банк Акцепт",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000135.png",
+      "schema": "bank100000000135",
+      "package": "ru.ftc.faktura.akcept",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://dbo.akcept.ru/fps/c2b"
+    },
+    {
+      "id": "100000000139",
+      "name": "КБ ЭНЕРГОТРАНСБАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000139.png",
+      "schema": "bank100000000139",
+      "package": "ru.ftc.faktura.etbank",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://online.energotransbank.com/fps/c2b"
+    },
+    {
+      "id": "100000000166",
+      "name": "СИБСОЦБАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000166.png",
+      "schema": "bank100000000166",
+      "package": "ru.ftc.faktura.multibank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000172",
+      "name": "Банк Развитие-Столица",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000172.png",
+      "schema": "bank100000000172",
+      "package": "ru.ftc.faktura.razvitiestolica",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000187",
+      "name": "Банк РЕСО Кредит",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000187.png",
+      "schema": "bank100000000187",
+      "package": "ru.ftc.faktura.resokreditbank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000022",
+      "name": "НКО ЮМани",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000022.png",
+      "schema": "bank100000000022",
+      "package": "ru.yoo.money",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000029",
+      "name": "Банк Санкт-Петербург",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000029.png",
+      "schema": "bank100000000029",
+      "package": "ru.bspb",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://pwa.bspb.ru/sbp-c2b"
+    },
+    {
+      "id": "100000000050",
+      "name": "КБ Кубань Кредит",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000050.png",
+      "schema": "bank100000000050",
+      "package": "com.isimplelab.ibank.kubankredit",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000177",
+      "name": "Банк НОВИКОМ (НОВИКОМБАНК)",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000177.png",
+      "schema": "bank100000000177",
+      "package": "com.bssys.novikomretail",
+      "isDrActive": true,
+      "isWebClientActive": true,
+      "webClientUrl": "https://online.novikom.ru/?i=deeplink/qr.nspk.ru"
+    },
+    {
+      "id": "100000000084",
+      "name": "РосДорБанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000084.png",
+      "schema": "bank100000000084",
+      "package": "ru.rosdorbank.physical",
+      "isDrActive": true,
+      "isWebClientActive": true,
+      "webClientUrl": "https://online.rdb.ru/petition/c2b_sbp/qr"
+    },
+    {
+      "id": "100000000088",
+      "name": "СКБ Приморья Примсоцбанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000088.png",
+      "schema": "bank100000000088",
+      "package": "ru.ftc.faktura.primsoc",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://psl.pskb.com/fps/c2b"
+    },
+    {
+      "id": "100000000126",
+      "name": "Банк Саратов",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000126.png",
+      "schema": "bank100000000126",
+      "package": "ru.ftc.faktura.banksaratov",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000152",
+      "name": "Тольяттихимбанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000152.png",
+      "schema": "bank100000000152",
+      "package": "com.bifit.mobile.citizen.thbank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000201",
+      "name": "Банк Кремлевский",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000201.png",
+      "schema": "bank100000000201",
+      "package": "ru.ftc.faktura.kremlevskiy",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "http://dbo.kremlinbank.ru/fps/c2b"
+    },
+    {
+      "id": "100000000034",
+      "name": "ТКБ БАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000034.png",
+      "schema": "bank100000000034",
+      "package": "ru.ftc.faktura.tkbbank",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://lk.tkbbank.ru/petition/c2b_sbp/qr"
+    },
+    {
+      "id": "100000000094",
+      "name": "ЧЕЛЯБИНВЕСТБАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000094.png",
+      "schema": "bank100000000094",
+      "package": "ru.chelyabinvestbank.investpay",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000235",
+      "name": "АКБ Держава",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000235.png",
+      "schema": "bank100000000235",
+      "package": "ru.ftc.faktura.derzhava",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://dbo1.derzhava.ru/fps/c2b"
+    },
+    {
+      "id": "100000000134",
+      "name": "НБД-Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000134.png",
+      "schema": "bank100000000134",
+      "package": "ru.nbd.android",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000091",
+      "name": "БАНК СНГБ",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000091.png",
+      "schema": "bank100000000091",
+      "package": "ru.sngb.dbo.client.android",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000258",
+      "name": "АИКБ Енисейский объединенный банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000258.png",
+      "schema": "bank100000000258",
+      "package": "ru.ftc.faktura.united",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://online.united.ru/fps/c2b"
+    },
+    {
+      "id": "100000000153",
+      "name": "Банк Венец",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000153.png",
+      "schema": "bank100000000153",
+      "package": "ru.ftc.faktura.venetsbank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000016",
+      "name": "Почта Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000016.png",
+      "schema": "bank100000000016",
+      "package": "ru.letobank.Prometheus",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000014",
+      "name": "Банк Русский Стандарт",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000014.png",
+      "schema": "bank100000000014",
+      "package": "ru.simpls.brs2.mobbank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000083",
+      "name": "Дальневосточный банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000083.png",
+      "schema": "bank100000000083",
+      "package": "com.bifit.dvbank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000170",
+      "name": "Банк Интеза",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000170.png",
+      "schema": "bank100000000170",
+      "package": "ru.ftc.faktura.intesabank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000037",
+      "name": "ГЕНБАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000037.png",
+      "schema": "bank100000000037",
+      "package": "com.mmonline.mobile",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000142",
+      "name": "УРАЛПРОМБАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000142.png",
+      "schema": "bank100000000142",
+      "package": "ru.uralprombank.mobilebanknew.googleplay",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000243",
+      "name": "Банк Национальный стандарт",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000243.png",
+      "schema": "bank100000000243",
+      "package": "ru.ftc.faktura.nsbank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000090",
+      "name": "Банк Екатеринбург",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000090.png",
+      "schema": "bank100000000090",
+      "package": "ru.emb.android",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000171",
+      "name": "МОРСКОЙ БАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000171.png",
+      "schema": "bank100000000171",
+      "package": "ru.ftc.faktura.maritimebank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000064",
+      "name": "Кредит Урал Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000064.png",
+      "schema": "bank100000000064",
+      "package": "com.credituralbank.CUBmobilenew",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://direct.creditural.ru/mobile/"
+    },
+    {
+      "id": "100000000093",
+      "name": "Углеметбанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000093.png",
+      "schema": "bank100000000093",
+      "package": "com.isimplelab.isimpleceo.uglemet",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000193",
+      "name": "КБ СТРОЙЛЕСБАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000193.png",
+      "schema": "bank100000000193",
+      "package": "com.bssys.stroylesretail",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000158",
+      "name": "Банк ИТУРУП",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000158.png",
+      "schema": "bank100000000158",
+      "package": "ru.ftc.faktura.iturup",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://pay.iturup.online/fps/c2b"
+    },
+    {
+      "id": "100000000174",
+      "name": "Первый Инвестиционный Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000174.png",
+      "schema": "bank100000000174",
+      "package": "ru.ftc.faktura.finbank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000183",
+      "name": "Газтрансбанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000183.png",
+      "schema": "bank100000000183",
+      "package": "ru.ftc.faktura.gaztransbank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000106",
+      "name": "ЧЕЛИНДБАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000106.png",
+      "schema": "bank100000000106",
+      "package": "com.isimplelab.ibank.chelind",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://ibf.chelindbank.ru/fps/c2b"
+    },
+    {
+      "id": "100000000115",
+      "name": "НИКО-БАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000115.png",
+      "schema": "bank100000000115",
+      "package": "ru.ftc.faktura.multibank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000062",
+      "name": "НОКССБАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000062.png",
+      "schema": "bank100000000062",
+      "package": "ru.ftc.faktura.nokss",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000058",
+      "name": "ВЛАДБИЗНЕСБАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000058.png",
+      "schema": "bank100000000058",
+      "package": "ru.ftc.faktura.vlbb",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000195",
+      "name": "Кузнецкбизнесбанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000195.png",
+      "schema": "bank100000000195",
+      "package": "ru.ftc.faktura.kbb",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000206",
+      "name": "Томскпромстройбанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000206.png",
+      "schema": "bank100000000206",
+      "package": "ru.ftc.faktura.multibank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000203",
+      "name": "АКБ МЕЖДУНАРОДНЫЙ ФИНАНСОВЫЙ КЛУБ",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000203.png",
+      "schema": "bank100000000203",
+      "package": "ru.ftc.faktura.mfkbank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000081",
+      "name": "АКБ Форштадт",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000081.png",
+      "schema": "bank100000000081",
+      "package": "ru.ftc.faktura.forshtadt",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000230",
+      "name": "АКБ Солид",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000230.png",
+      "schema": "bank100000000230",
+      "package": "ru.ftc.faktura.solidbank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000211",
+      "name": "Банк АЛЕКСАНДРОВСКИЙ",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000211.png",
+      "schema": "bank100000000211",
+      "package": "ru.ftc.faktura.alexbank",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://online.abank.ru/fps/c2b"
+    },
+    {
+      "id": "100000000107",
+      "name": "АКИБАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000107.png",
+      "schema": "bank100000000107",
+      "package": "ru.ftc.faktura.akibank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000185",
+      "name": "Нацинвестпромбанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000185.png",
+      "schema": "bank100000000185",
+      "package": "ru.ftc.faktura.nipbank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000113",
+      "name": "АКБ Алеф-Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000113.png",
+      "schema": "bank100000000113",
+      "package": "ru.ftc.faktura.alefbank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000248",
+      "name": "КБ ВНЕШФИНБАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000248.png",
+      "schema": "bank100000000248",
+      "package": "com.bifit.vfbank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000151",
+      "name": "Дом.ру (Урал ФД)",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000151.png",
+      "schema": "bank100000000151",
+      "package": "com.bssys.uralfdretail",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000129",
+      "name": "КБ АРЕСБАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000129.png",
+      "schema": "bank100000000129",
+      "package": "ru.ftc.faktura.multibank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000208",
+      "name": "Северный Народный Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000208.png",
+      "schema": "bank100000000208",
+      "package": "com.snb.online",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000182",
+      "name": "Банк Объединенный капитал",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000182.png",
+      "schema": "bank100000000182",
+      "package": "com.bifit.mobile.citizen.okbank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000189",
+      "name": "ТАТСОЦБАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000189.png",
+      "schema": "bank100000000189",
+      "package": "com.tatsotsbank.dbomobile",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://lk.tatsotsbank.ru/fps/c2b"
+    },
+    {
+      "id": "100000000202",
+      "name": "Норвик Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000202.png",
+      "schema": "bank100000000202",
+      "package": "ru.vtkbank.android",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000071",
+      "name": "НС Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000071.png",
+      "schema": "bank100000000071",
+      "package": "ru.ftc.faktura.ns",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://www.mbc.nsbank.ru/fps/c2b"
+    },
+    {
+      "id": "100000000066",
+      "name": "Земский банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000066.png",
+      "schema": "bank100000000066",
+      "package": "ru.ftc.faktura.zemskybank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000154",
+      "name": "Банк Аверс",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000154.png",
+      "schema": "bank100000000154",
+      "package": "com.bssys.aversretail",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000194",
+      "name": "КБ РУСНАРБАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000194.png",
+      "schema": "bank100000000194",
+      "package": "ru.rusnarbank.correqts.retail",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://online.rusnarbank.ru/#/external/fps"
+    },
+    {
+      "id": "100000000232",
+      "name": "РЕАЛИСТ БАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000232.png",
+      "schema": "bank100000000232",
+      "package": "ru.ftc.faktura.baikalinvestbank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000105",
+      "name": "Эс-Би-Ай Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000105.png",
+      "schema": "bank100000000105",
+      "package": "ru.sbi.android",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000136",
+      "name": "МЕТКОМБАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000136.png",
+      "schema": "bank100000000136",
+      "package": "com.metkombank.mobile",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000191",
+      "name": "КБЭР Банк Казани",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000191.png",
+      "schema": "bank100000000191",
+      "package": "com.isimplelab.ionic.kazan.fl",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000197",
+      "name": "АКБ Трансстройбанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000197.png",
+      "schema": "bank100000000197",
+      "package": "com.intervale.sbp.atlas",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000205",
+      "name": "Банк Заречье",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000205.png",
+      "schema": "bank100000000205",
+      "package": "com.bifit.mobile.citizen.zarech",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000059",
+      "name": "КБ Центр-инвест",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000059.png",
+      "schema": "bank100000000059",
+      "package": "ru.centrinvest.mobilebanking2018",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000070",
+      "name": "Датабанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000070.png",
+      "schema": "bank100000000070",
+      "package": "com.mifors.izhcombank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000223",
+      "name": "СОЦИУМ-БАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000223.png",
+      "schema": "bank100000000223",
+      "package": "com.intervale.sbp.atlas",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000148",
+      "name": "КБ СИНКО-БАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000148.png",
+      "schema": "bank100000000148",
+      "package": "com.intervale.sbp.atlas",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000199",
+      "name": "ИШБАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000199.png",
+      "schema": "bank100000000199",
+      "package": "com.bifit.pmobile.isbank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000045",
+      "name": "Банк ЗЕНИТ",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000045.png",
+      "schema": "bank100000000045",
+      "package": "ru.zenit.android",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://i.zenit.ru/sbpPay"
+    },
+    {
+      "id": "100000000217",
+      "name": "АКБ ФОРА-БАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000217.png",
+      "schema": "bank100000000217",
+      "package": "ru.briginvest.sense",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000169",
+      "name": "МП Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000169.png",
+      "schema": "bank100000000169",
+      "package": "ru.ftc.faktura.multibank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000125",
+      "name": "ГОРБАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000125.png",
+      "schema": "bank100000000125",
+      "package": "com.isimplelab.ionic.gorbank.prod",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000176",
+      "name": "МОСКОМБАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000176.png",
+      "schema": "bank100000000176",
+      "package": "ru.ftc.faktura.moscombank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000144",
+      "name": "Тимер Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000144.png",
+      "schema": "bank100000000144",
+      "package": "com.timerbank.retail",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000181",
+      "name": "Автоторгбанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000181.png",
+      "schema": "bank100000000181",
+      "package": "com.bifit.atbbank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000026",
+      "name": "БАНК УРАЛСИБ",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000026.png",
+      "schema": "bank100000000026",
+      "package": "ru.bankuralsib.mb.android",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://online.uralsib.ru/sbp-pay"
+    },
+    {
+      "id": "100000000078",
+      "name": "Инго Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000078.png",
+      "schema": "bank100000000078",
+      "package": "com.banksoyuz.artsofte",
+      "isDrActive": true,
+      "isWebClientActive": true,
+      "webClientUrl": "https://online.ingobank.ru/sbpqr"
+    },
+    {
+      "id": "100000000165",
+      "name": "Русьуниверсалбанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000165.png",
+      "schema": "bank100000000165",
+      "package": "ru.rubank.ubsmobile",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000031",
+      "name": "КБ УБРиР",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000031.png",
+      "schema": "bank100000000031",
+      "package": "cb.ibank",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://i.ubrr.ru/pjpmt429"
+    },
+    {
+      "id": "100000000226",
+      "name": "АКБ Приморье",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000226.png",
+      "schema": "bank100000000226",
+      "package": "ru.ftc.faktura.multibank",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://online.primbank.ru/external/fps"
+    },
+    {
+      "id": "100000000236",
+      "name": "Банк ИПБ",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000236.png",
+      "schema": "bank100000000236",
+      "package": "ru.ipb.ubsmobile",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://on-line.ipb.ru/sbp"
+    },
+    {
+      "id": "100000000103",
+      "name": "КБ Пойдём!",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000103.png",
+      "schema": "bank100000000103",
+      "package": "com.openwaygroup.ic.panda.poidem",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000175",
+      "name": "АКБ ТЕНДЕР-БАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000175.png",
+      "schema": "bank100000000175",
+      "package": "com.bifit.mobile.citizen.tenderbank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000018",
+      "name": "ОТП Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000018.png",
+      "schema": "bank100000000018",
+      "package": "ru.otpbank.mobile",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000212",
+      "name": "КБ Крокус-Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000212.png",
+      "schema": "bank100000000212",
+      "package": "ru.krk.ubsmobile",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000032",
+      "name": "Ренессанс Банк (Ренессанс Кредит)",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000032.png",
+      "schema": "bank100000000032",
+      "package": "cz.bsc.rc",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000225",
+      "name": "УКБ Белгородсоцбанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000225.png",
+      "schema": "bank100000000225",
+      "package": "com.bifit.mobile.citizen.belsocbank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000272",
+      "name": "Хайс Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000272.png",
+      "schema": "bank100000000272",
+      "package": "com.hicebank.android",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000219",
+      "name": "Севергазбанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000219.png",
+      "schema": "bank100000000219",
+      "package": "com.bpc.crossplatform_trading.bpc_trading",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000184",
+      "name": "АКБ НРБанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000184.png",
+      "schema": "bank100000000184",
+      "package": "com.bifit.nrb",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000110",
+      "name": "КБ Москоммерцбанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000110.png",
+      "schema": "bank100000000110",
+      "package": "com.bifit.mobile.citizen.moskb",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000180",
+      "name": "Кубаньторгбанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000180.png",
+      "schema": "bank100000000180",
+      "package": "ru.isfront.android.kt",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000222",
+      "name": "УКБ Новобанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000222.png",
+      "schema": "bank100000000222",
+      "package": "ru.ftc.faktura.novobank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000233",
+      "name": "НК Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000233.png",
+      "schema": "bank100000000233",
+      "package": "com.bifit.mobile.citizen.nkbank",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://sbp.nkbank.ru/sbp/c2b"
+    },
+    {
+      "id": "100000000138",
+      "name": "Тойота Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000138.png",
+      "schema": "bank100000000138",
+      "package": "com.isimplelab.ibank.toyota",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000133",
+      "name": "ББР Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000133.png",
+      "schema": "bank100000000133",
+      "package": "com.bifit.mobile.private.bbr",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000245",
+      "name": "АКБ Ланта-Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000245.png",
+      "schema": "bank100000000245",
+      "package": "ru.ftc.faktura.lanta",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://dbo.lanta.ru/fps/c2b"
+    },
+    {
+      "id": "100000000270",
+      "name": "КБ Долинск",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000270.png",
+      "schema": "bank100000000270",
+      "package": "ru.ftc.faktura.dolinsk",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000216",
+      "name": "Банк Финсервис",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000216.png",
+      "schema": "bank100000000216",
+      "package": "com.finservice.mobile",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000042",
+      "name": "КБ ЮНИСТРИМ",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000042.png",
+      "schema": "bank100000000042",
+      "package": "com.ltech.unistream",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000067",
+      "name": "КБ Новый век",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000067.png",
+      "schema": "bank100000000067",
+      "package": "com.isimplelab.ionic.standart",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000192",
+      "name": "Банк МБА-МОСКВА",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000192.png",
+      "schema": "bank100000000192",
+      "package": "ru.ibam.retailmobile",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000041",
+      "name": "БКС Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000041.png",
+      "schema": "bank100000000041",
+      "package": "ru.bcs.bcsbank",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://bcs-bank.ru/nspklink"
+    },
+    {
+      "id": "100000000200",
+      "name": "АКБ СЛАВИЯ",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000200.png",
+      "schema": "bank100000000200",
+      "package": "com.isimplelab.ionic.slavia.prod",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000167",
+      "name": "АКБ ЕВРОФИНАНС МОСНАРБАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000167.png",
+      "schema": "bank100000000167",
+      "package": "com.bifit.mobile.citizen.efbank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000150",
+      "name": "Яндекс",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000150.png",
+      "schema": "bank100000000150",
+      "package": "com.yandex.bank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000260",
+      "name": "Банк БЖФ",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000260.png",
+      "schema": "bank100000000260",
+      "package": "ru.ftc.faktura.bgfbank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000161",
+      "name": "КБ ЛОКО-Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000161.png",
+      "schema": "bank100000000161",
+      "package": "com.idamobile.android.LockoBank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000234",
+      "name": "БАНК МОСКВА-СИТИ",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000234.png",
+      "schema": "bank100000000234",
+      "package": "com.bifit.mobile.citizen.MCBank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000149",
+      "name": "ГУТА-БАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000149.png",
+      "schema": "bank100000000149",
+      "package": "com.bssys.gutaretail",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000278",
+      "name": "ФИНСТАР БАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000278.png",
+      "schema": "bank100000000278",
+      "package": "ru.ftc.faktura.siab",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000247",
+      "name": "банк Раунд",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000247.png",
+      "schema": "bank100000000247",
+      "package": "com.isimplelab.ionic.round.prod",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000228",
+      "name": "Прио-Внешторгбанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000228.png",
+      "schema": "bank100000000228",
+      "package": "com.priobank.prio",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000196",
+      "name": "Инбанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000196.png",
+      "schema": "bank100000000196",
+      "package": "com.inbank.mobilebank",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000096",
+      "name": "Уралфинанс",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000096.png",
+      "schema": "bank100000000096",
+      "package": "com.isimplelab.isimplemobile.payjet",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000102",
+      "name": "Банк Агророс",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000102.png",
+      "schema": "bank100000000102",
+      "package": "ru.ftc.faktura.agroros",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://my.agroros.ru/fps/c2b"
+    },
+    {
+      "id": "100000000160",
+      "name": "ЮГ-Инвестбанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000160.png",
+      "schema": "bank100000000160",
+      "package": "com.bifit.mobile.citizen.invb",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000231",
+      "name": "ЦентроКредит",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000231.png",
+      "schema": "bank100000000231",
+      "package": "com.compassplus.mobicash.customer",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000163",
+      "name": "Снежинский",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000163.png",
+      "schema": "bank100000000163",
+      "package": "com.compassplus.mobicash.customer",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000040",
+      "name": "Банк ФИНАМ",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000040.png",
+      "schema": "bank100000000040",
+      "package": "ru.finambank.app",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000284",
+      "name": "Банк Точка",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000284.png",
+      "schema": "bank100000000284",
+      "package": "ru.zhuck.webapp",
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://i.tochka.com/a/sbp_c2b"
+    },
+    {
+      "id": "100000000266",
+      "name": "банк Элита",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000266.png",
+      "schema": "bank100000000266",
+      "package": "",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000046",
+      "name": "Металлинвестбанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000046.png",
+      "schema": "bank100000000046",
+      "package": "",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000117",
+      "name": "ПроБанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000117.png",
+      "schema": "bank100000000117",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://bk.probank.pro/a567/"
+    },
+    {
+      "id": "100000000265",
+      "name": "Цифра банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000265.png",
+      "schema": "bank100000000265",
+      "package": "",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000273",
+      "name": "Озон Банк (Ozon)",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000273.png",
+      "schema": "bank100000000273",
+      "package": "",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000137",
+      "name": "Первый Дортрансбанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000137.png",
+      "schema": "bank100000000137",
+      "package": "",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000282",
+      "name": "ЦМРБанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000282.png",
+      "schema": "bank100000000282",
+      "package": "",
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000296",
+      "name": "Плайт",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000296.png",
+      "schema": "bank100000000296",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://plait.ru/lk/qr"
+    },
+    {
+      "id": "100000000286",
+      "name": "Банк Оранжевый",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000286.png",
+      "schema": "bank100000000286",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000293",
+      "name": "ИКБР ЯРИНТЕРБАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000293.png",
+      "schema": "bank100000000293",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000288",
+      "name": "Банк Пэйджин",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000288.png",
+      "schema": "bank100000000288",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000108",
+      "name": "Азиатско-Тихоокеанский Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000108.png",
+      "schema": "bank100000000108",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000259",
+      "name": "ВБ Банк (Вайлдберриз банк)",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000259.png",
+      "schema": "bank100000000259",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000198",
+      "name": "Экономбанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000198.png",
+      "schema": "bank100000000198",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000267",
+      "name": "Банк Ставр",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000267.png",
+      "schema": "bank100000000267",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000271",
+      "name": "НКО Мобильная карта",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000271.png",
+      "schema": "bank100000000271",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://wallet.1cupis.ru/qr"
+    },
+    {
+      "id": "100000000289",
+      "name": "МТС Деньги (ЭКСИ Банк)",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000289.png",
+      "schema": "bank100000000289",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000295",
+      "name": "ЖИВАГО БАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000295.png",
+      "schema": "bank100000000295",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000301",
+      "name": "РОКЕТБАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000301.png",
+      "schema": "bank100000000301",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000306",
+      "name": "БАЛАКОВО-БАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000306.png",
+      "schema": "bank100000000306",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000254",
+      "name": "Банк Кузнецкий",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000254.png",
+      "schema": "bank100000000254",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000285",
+      "name": "Промсельхозбанк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000285.png",
+      "schema": "bank100000000285",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://app.payinrussia.com/external/fps"
+    },
+    {
+      "id": "100000000269",
+      "name": "Банк ЧБРР",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000269.png",
+      "schema": "bank100000000269",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000298",
+      "name": "Банк РСИ",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000298.png",
+      "schema": "bank100000000298",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://ib.bankrsi.ru:5555/sbp"
+    },
+    {
+      "id": "100000000143",
+      "name": "Банк 131",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000143.png",
+      "schema": "bank100000000143",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000263",
+      "name": "Роял Кредит Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000263.png",
+      "schema": "bank100000000263",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://online.royal-bank.ru/fps/c2b"
+    },
+    {
+      "id": "100000000314",
+      "name": "БАНК МСКБ",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000314.png",
+      "schema": "bank100000000314",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    }
+  ]
+}

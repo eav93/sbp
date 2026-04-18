@@ -1,0 +1,29 @@
+{
+  "name": "@eav93/sbp",
+  "version": "1.0.0",
+  "description": "List of Russian SBP (Fast Payment System) member banks",
+  "type": "module",
+  "main": "./src/index.cjs",
+  "module": "./src/index.js",
+  "types": "./src/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./src/index.js",
+      "require": "./src/index.cjs",
+      "types": "./src/index.d.ts"
+    }
+  },
+  "scripts": {
+    "fetch": "node scripts/fetch.js",
+    "build": "tsc"
+  },
+  "files": [
+    "src/",
+    "data/banks.json"
+  ],
+  "keywords": ["sbp", "banks", "fast-payment", "russia", "nspk"],
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
