@@ -35,7 +35,7 @@ class Bank
     }
 }
 
-class SbpBanks
+class Banks
 {
     private static ?array $cache = null;
     private static string $dataPath = __DIR__ . '/../data/banks.json';
