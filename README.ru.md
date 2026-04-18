@@ -18,6 +18,15 @@ composer require eav93/sbp
 npm install @eav93/sbp
 ```
 
+**Go**
+```bash
+go get github.com/eav93/sbp
+```
+
+**Python** — скопируйте `src/banks.py` в свой проект.
+
+**Ruby** — скопируйте `src/banks.rb` в свой проект.
+
 ## Использование
 
 ### PHP
