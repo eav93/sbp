@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-04-20T04:09:48.802Z",
+  "updatedAt": "2026-04-21T04:05:18.017Z",
   "banks": [
     {
       "id": "100000000111",
@@ -1908,6 +1908,16 @@
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000314.png",
       "schema": "bank100000000314",
       "package": null,
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000118",
+      "name": "КБ АГРОПРОМКРЕДИТ",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000118.png",
+      "schema": "bank100000000118",
+      "package": "ru.ftc.faktura.agropromkredit",
       "isDrActive": false,
       "isWebClientActive": false,
       "webClientUrl": null
