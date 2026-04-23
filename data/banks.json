@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-04-22T04:04:39.803Z",
+  "updatedAt": "2026-04-23T04:05:57.406Z",
   "banks": [
     {
       "id": "100000000111",
@@ -1721,16 +1721,6 @@
       "isDrActive": false,
       "isWebClientActive": true,
       "webClientUrl": "https://plait.ru/lk/qr"
-    },
-    {
-      "id": "100000000286",
-      "name": "Банк Оранжевый",
-      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000286.png",
-      "schema": "bank100000000286",
-      "package": null,
-      "isDrActive": false,
-      "isWebClientActive": false,
-      "webClientUrl": null
     },
     {
       "id": "100000000293",
