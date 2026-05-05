@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-05-04T04:21:52.034Z",
+  "updatedAt": "2026-05-05T04:07:09.196Z",
   "banks": [
     {
       "id": "100000000111",
@@ -608,16 +608,6 @@
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000153.png",
       "schema": "bank100000000153",
       "package": "ru.ftc.faktura.venetsbank",
-      "isDrActive": false,
-      "isWebClientActive": false,
-      "webClientUrl": null
-    },
-    {
-      "id": "100000000016",
-      "name": "Почта Банк",
-      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000016.png",
-      "schema": "bank100000000016",
-      "package": "ru.letobank.Prometheus",
       "isDrActive": false,
       "isWebClientActive": false,
       "webClientUrl": null
