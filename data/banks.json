@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-05-05T04:07:09.196Z",
+  "updatedAt": "2026-05-06T04:19:05.389Z",
   "banks": [
     {
       "id": "100000000111",
@@ -1907,6 +1907,16 @@
       "name": "Банк ДАЛЕНА",
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000051.png",
       "schema": "bank100000000051",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000294",
+      "name": "ПЕРВОУРАЛЬСКБАНК",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000294.png",
+      "schema": "bank100000000294",
       "package": null,
       "isDrActive": false,
       "isWebClientActive": false,
