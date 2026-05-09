@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-05-08T04:07:27.888Z",
+  "updatedAt": "2026-05-09T04:12:10.243Z",
   "banks": [
     {
       "id": "100000000111",
@@ -540,7 +540,7 @@
       "package": "ru.ftc.faktura.kremlevskiy",
       "isDrActive": false,
       "isWebClientActive": true,
-      "webClientUrl": "http://dbo.kremlinbank.ru/fps/c2b"
+      "webClientUrl": "https://dbo.kremlinbank.ru/fps/c2b"
     },
     {
       "id": "100000000034",
