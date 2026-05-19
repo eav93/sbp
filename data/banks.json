@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-05-18T04:32:21.887Z",
+  "updatedAt": "2026-05-19T04:28:44.938Z",
   "banks": [
     {
       "id": "100000000111",
@@ -44,7 +44,7 @@
     },
     {
       "id": "100000000007",
-      "name": "Райффайзенбанк",
+      "name": "Райффайзен Банк",
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000007.png",
       "schema": "bank100000000007",
       "package": "ru.raiffeisennews",
@@ -84,7 +84,7 @@
     },
     {
       "id": "100000000020",
-      "name": "Россельхозбанк",
+      "name": "РОССЕЛЬХОЗБАНК",
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000020.png",
       "schema": "bank100000000020",
       "package": "ru.rshb.dbo",
@@ -1254,7 +1254,7 @@
     },
     {
       "id": "100000000018",
-      "name": "ОТП Банк",
+      "name": "ОТП Банк (OTP Bank)",
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000018.png",
       "schema": "bank100000000018",
       "package": "ru.otpbank.mobile",
