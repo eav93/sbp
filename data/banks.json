@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-05-25T04:34:39.355Z",
+  "updatedAt": "2026-05-26T04:28:59.863Z",
   "banks": [
     {
       "id": "100000000111",
@@ -1789,8 +1789,8 @@
       "schema": "bank100000000289",
       "package": null,
       "isDrActive": false,
-      "isWebClientActive": false,
-      "webClientUrl": null
+      "isWebClientActive": true,
+      "webClientUrl": "https://mdeng.ru/paymentsC2BDeng"
     },
     {
       "id": "100000000295",
@@ -1834,7 +1834,7 @@
     },
     {
       "id": "100000000285",
-      "name": "Промсельхозбанк",
+      "name": "Промсельхозбанк (PayinRussia/Плати в России)",
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000285.png",
       "schema": "bank100000000285",
       "package": null,
