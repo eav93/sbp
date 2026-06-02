@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-06-01T04:36:43.908Z",
+  "updatedAt": "2026-06-02T04:34:08.171Z",
   "banks": [
     {
       "id": "100000000111",
@@ -84,7 +84,7 @@
     },
     {
       "id": "100000000020",
-      "name": "РОССЕЛЬХОЗБАНК",
+      "name": "РСХБ",
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000020.png",
       "schema": "bank100000000020",
       "package": "ru.rshb.dbo",
