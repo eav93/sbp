@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-06-10T04:33:19.221Z",
+  "updatedAt": "2026-06-11T04:34:37.554Z",
   "banks": [
     {
       "id": "100000000111",
@@ -239,8 +239,8 @@
       "schema": "bank100000000017",
       "package": "ru.mts.money",
       "isDrActive": true,
-      "isWebClientActive": false,
-      "webClientUrl": null
+      "isWebClientActive": true,
+      "webClientUrl": "https://mdeng.ru/paymentsC2BBank"
     },
     {
       "id": "100000000087",
@@ -464,7 +464,7 @@
     },
     {
       "id": "100000000029",
-      "name": "Банк Санкт-Петербург",
+      "name": "Банк Санкт-Петербург (БСПБ)",
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000029.png",
       "schema": "bank100000000029",
       "package": "ru.bspb",
