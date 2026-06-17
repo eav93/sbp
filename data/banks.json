@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-06-16T04:37:46.109Z",
+  "updatedAt": "2026-06-17T04:34:36.914Z",
   "banks": [
     {
       "id": "100000000111",
@@ -1927,6 +1927,16 @@
       "name": "НООСФЕРА",
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000313.png",
       "schema": "bank100000000313",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000307",
+      "name": "Банк Глобус",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000307.png",
+      "schema": "bank100000000307",
       "package": null,
       "isDrActive": false,
       "isWebClientActive": false,
