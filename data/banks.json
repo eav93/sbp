@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-06-22T04:36:20.897Z",
+  "updatedAt": "2026-06-23T04:26:48.755Z",
   "banks": [
     {
       "id": "100000000111",
@@ -220,7 +220,7 @@
       "package": "com.bssys.roscapretail",
       "isDrActive": true,
       "isWebClientActive": true,
-      "webClientUrl": "https://my.domrfbank.ru/app/sbp/c2b"
+      "webClientUrl": "https://domrfbank.ru/app/sbp/c2b"
     },
     {
       "id": "100000000127",
