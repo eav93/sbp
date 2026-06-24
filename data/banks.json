@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-06-23T04:26:48.755Z",
+  "updatedAt": "2026-06-24T04:28:53.167Z",
   "banks": [
     {
       "id": "100000000111",
@@ -1937,6 +1937,16 @@
       "name": "Банк Глобус",
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000307.png",
       "schema": "bank100000000307",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "120000000288",
+      "name": "Банк Пэйджин (Теле 2)",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank120000000288.png",
+      "schema": "bank120000000288",
       "package": null,
       "isDrActive": false,
       "isWebClientActive": false,
