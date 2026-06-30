@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-06-29T04:35:22.032Z",
+  "updatedAt": "2026-06-30T04:28:42.915Z",
   "banks": [
     {
       "id": "100000000111",
@@ -1944,7 +1944,7 @@
     },
     {
       "id": "120000000288",
-      "name": "Банк Пэйджин (Теле 2)",
+      "name": "Т2 card (Банк Пэйджин)",
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank120000000288.png",
       "schema": "bank120000000288",
       "package": null,
