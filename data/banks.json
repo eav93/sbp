@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-06-30T04:28:42.915Z",
+  "updatedAt": "2026-07-01T04:35:02.252Z",
   "banks": [
     {
       "id": "100000000111",
@@ -1128,16 +1128,6 @@
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000169.png",
       "schema": "bank100000000169",
       "package": "ru.ftc.faktura.multibank",
-      "isDrActive": false,
-      "isWebClientActive": false,
-      "webClientUrl": null
-    },
-    {
-      "id": "100000000125",
-      "name": "ГОРБАНК",
-      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000125.png",
-      "schema": "bank100000000125",
-      "package": "com.isimplelab.ionic.gorbank.prod",
       "isDrActive": false,
       "isWebClientActive": false,
       "webClientUrl": null
