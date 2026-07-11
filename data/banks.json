@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-07-10T06:46:36.727Z",
+  "updatedAt": "2026-07-11T05:41:31.863Z",
   "banks": [
     {
       "id": "100000000111",
@@ -468,7 +468,7 @@
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000029.png",
       "schema": "bank100000000029",
       "package": "ru.bspb",
-      "isDrActive": false,
+      "isDrActive": true,
       "isWebClientActive": true,
       "webClientUrl": "https://pwa.bspb.ru/sbp-c2b"
     },
