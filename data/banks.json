@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-07-14T05:30:49.115Z",
+  "updatedAt": "2026-07-15T05:32:01.475Z",
   "banks": [
     {
       "id": "100000000111",
@@ -894,7 +894,7 @@
     },
     {
       "id": "100000000151",
-      "name": "Дом.ру (Урал ФД)",
+      "name": "Урал ФД",
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000151.png",
       "schema": "bank100000000151",
       "package": "com.bssys.uralfdretail",
@@ -1937,6 +1937,16 @@
       "name": "Т2 card (Банк Пэйджин)",
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank120000000288.png",
       "schema": "bank120000000288",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": false,
+      "webClientUrl": null
+    },
+    {
+      "id": "100000000315",
+      "name": "ЕВРОАЛЬЯНС",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000315.png",
+      "schema": "bank100000000315",
       "package": null,
       "isDrActive": false,
       "isWebClientActive": false,
