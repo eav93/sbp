@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-07-15T05:32:01.475Z",
+  "updatedAt": "2026-07-16T05:41:13.449Z",
   "banks": [
     {
       "id": "100000000111",
@@ -1944,13 +1944,23 @@
     },
     {
       "id": "100000000315",
-      "name": "ЕВРОАЛЬЯНС",
+      "name": "Qplus (ЕВРОАЛЬЯНС Банк)",
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000315.png",
       "schema": "bank100000000315",
       "package": null,
       "isDrActive": false,
       "isWebClientActive": false,
       "webClientUrl": null
+    },
+    {
+      "id": "110000000288",
+      "name": "Авито Кошелек (Банк Пэйджин)",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank110000000288.png",
+      "schema": "bank110000000288",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://m.avito.ru/wallet/payment"
     }
   ]
 }
