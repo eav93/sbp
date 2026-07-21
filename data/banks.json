@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-07-20T06:18:38.420Z",
+  "updatedAt": "2026-07-21T05:51:17.647Z",
   "banks": [
     {
       "id": "100000000111",
@@ -1470,7 +1470,7 @@
       "package": "com.yandex.bank",
       "isDrActive": false,
       "isWebClientActive": false,
-      "webClientUrl": null
+      "webClientUrl": "https://bank.yandex.ru/a/transfers/landings/nspk"
     },
     {
       "id": "100000000260",
