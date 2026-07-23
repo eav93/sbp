@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-07-22T05:50:47.562Z",
+  "updatedAt": "2026-07-23T05:54:51.452Z",
   "banks": [
     {
       "id": "100000000111",
@@ -89,8 +89,8 @@
       "schema": "bank100000000020",
       "package": "ru.rshb.dbo",
       "isDrActive": false,
-      "isWebClientActive": false,
-      "webClientUrl": null
+      "isWebClientActive": true,
+      "webClientUrl": "https://online.rshb.ru/dl/sbp"
     },
     {
       "id": "100000000025",
