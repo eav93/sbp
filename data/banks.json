@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-07-31T06:13:59.918Z",
+  "updatedAt": "2026-08-01T05:54:56.883Z",
   "banks": [
     {
       "id": "100000000111",
@@ -40,7 +40,7 @@
       "package": "ru.alfabank.mobile.android",
       "isDrActive": true,
       "isWebClientActive": true,
-      "webClientUrl": "https://alfa-mobile.alfabank.ru/mobile-public/goto/qr"
+      "webClientUrl": "https://payzonaecom.com/mobile-public/goto/qr"
     },
     {
       "id": "100000000007",
@@ -618,16 +618,6 @@
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000014.png",
       "schema": "bank100000000014",
       "package": "ru.simpls.brs2.mobbank",
-      "isDrActive": false,
-      "isWebClientActive": false,
-      "webClientUrl": null
-    },
-    {
-      "id": "100000000083",
-      "name": "Дальневосточный банк",
-      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000083.png",
-      "schema": "bank100000000083",
-      "package": "com.bifit.dvbank",
       "isDrActive": false,
       "isWebClientActive": false,
       "webClientUrl": null
