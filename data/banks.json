@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-08-03T06:23:45.406Z",
+  "updatedAt": "2026-08-04T05:46:42.136Z",
   "banks": [
     {
       "id": "100000000111",
@@ -20,7 +20,7 @@
       "package": "com.idamob.tinkoff.android",
       "isDrActive": true,
       "isWebClientActive": true,
-      "webClientUrl": "https://www.tinkoff.ru/mybank/payments/qr-pay"
+      "webClientUrl": "https://www.tbank.ru/mybank/payments/qr-pay"
     },
     {
       "id": "110000000005",
@@ -30,7 +30,7 @@
       "package": "ru.vtb24.mobilebanking.android",
       "isDrActive": true,
       "isWebClientActive": true,
-      "webClientUrl": "https://online.vtb.ru/i/paymentSbp"
+      "webClientUrl": "https://online.vneshtbank.ru/i/paymentSbp"
     },
     {
       "id": "100000000008",
