@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-08-12T04:46:38.418Z",
+  "updatedAt": "2026-08-13T04:50:09.636Z",
   "banks": [
     {
       "id": "100000000111",
@@ -470,7 +470,7 @@
       "package": "ru.bspb",
       "isDrActive": true,
       "isWebClientActive": true,
-      "webClientUrl": "https://pwa.bspb.ru/sbp-c2b"
+      "webClientUrl": "https://spb.pro/sbp-c2b"
     },
     {
       "id": "100000000050",
