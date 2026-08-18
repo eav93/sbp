@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-08-17T03:50:16.168Z",
+  "updatedAt": "2026-08-18T03:43:51.679Z",
   "banks": [
     {
       "id": "100000000111",
@@ -889,8 +889,8 @@
       "schema": "bank100000000151",
       "package": "com.bssys.uralfdretail",
       "isDrActive": false,
-      "isWebClientActive": false,
-      "webClientUrl": null
+      "isWebClientActive": true,
+      "webClientUrl": "https://online.uralfd.ru/nspk/c2b"
     },
     {
       "id": "100000000129",
