@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-08-19T03:46:03.941Z",
+  "updatedAt": "2026-08-20T03:46:57.957Z",
   "banks": [
     {
       "id": "100000000111",
@@ -1079,8 +1079,8 @@
       "schema": "bank100000000148",
       "package": "com.intervale.sbp.atlas",
       "isDrActive": false,
-      "isWebClientActive": false,
-      "webClientUrl": null
+      "isWebClientActive": true,
+      "webClientUrl": "https://sbp.rbspayment.ru/atlas_sbp/payments/qr"
     },
     {
       "id": "100000000199",
