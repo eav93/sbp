@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-08-25T03:48:38.213Z",
+  "updatedAt": "2026-08-26T03:53:32.753Z",
   "banks": [
     {
       "id": "100000000111",
@@ -548,7 +548,7 @@
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000034.png",
       "schema": "bank100000000034",
       "package": "ru.ftc.faktura.tkbbank",
-      "isDrActive": false,
+      "isDrActive": true,
       "isWebClientActive": true,
       "webClientUrl": "https://lk.tkbbank.ru/petition/c2b_sbp/qr"
     },
