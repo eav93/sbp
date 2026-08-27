@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-08-26T03:53:32.753Z",
+  "updatedAt": "2026-08-27T13:51:27.965Z",
   "banks": [
     {
       "id": "100000000111",
@@ -664,7 +664,7 @@
     },
     {
       "id": "100000000090",
-      "name": "Банк Екатеринбург",
+      "name": "Контур.Банк",
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000090.png",
       "schema": "bank100000000090",
       "package": "ru.emb.android",
