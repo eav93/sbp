@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-08-31T09:24:12.933Z",
+  "updatedAt": "2026-09-01T08:21:44.158Z",
   "banks": [
     {
       "id": "100000000111",
@@ -88,7 +88,7 @@
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000020.png",
       "schema": "bank100000000020",
       "package": "ru.rshb.dbo",
-      "isDrActive": false,
+      "isDrActive": true,
       "isWebClientActive": true,
       "webClientUrl": "https://online.rshb.ru/dl/sbp"
     },
@@ -1648,7 +1648,7 @@
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000265.png",
       "schema": "bank100000000265",
       "package": "",
-      "isDrActive": false,
+      "isDrActive": true,
       "isWebClientActive": false,
       "webClientUrl": null
     },
