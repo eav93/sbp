@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-09-01T08:21:44.158Z",
+  "updatedAt": "2026-09-02T07:41:06.692Z",
   "banks": [
     {
       "id": "100000000111",
@@ -78,7 +78,7 @@
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000013.png",
       "schema": "bank100000000013",
       "package": "ru.sovcomcard.halva.v1",
-      "isDrActive": false,
+      "isDrActive": true,
       "isWebClientActive": true,
       "webClientUrl": "https://halvacard.ru/lk/qr"
     },
@@ -178,7 +178,7 @@
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000095.png",
       "schema": "bank100000000095",
       "package": "ru.artsofte.russiafl",
-      "isDrActive": false,
+      "isDrActive": true,
       "isWebClientActive": true,
       "webClientUrl": "https://i2.abr.ru/c2b/qr"
     },
@@ -338,7 +338,7 @@
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000124.png",
       "schema": "bank100000000124",
       "package": "ru.ftc.faktura.orbank",
-      "isDrActive": false,
+      "isDrActive": true,
       "isWebClientActive": false,
       "webClientUrl": null
     },
@@ -1049,8 +1049,8 @@
       "schema": "bank100000000059",
       "package": "ru.centrinvest.mobilebanking2018",
       "isDrActive": true,
-      "isWebClientActive": false,
-      "webClientUrl": null
+      "isWebClientActive": true,
+      "webClientUrl": "https://my.centrinvest.ru/paymentFpsQr"
     },
     {
       "id": "100000000070",
@@ -1658,7 +1658,7 @@
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000273.png",
       "schema": "bank100000000273",
       "package": "",
-      "isDrActive": false,
+      "isDrActive": true,
       "isWebClientActive": false,
       "webClientUrl": null
     },
@@ -1758,7 +1758,7 @@
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000271.png",
       "schema": "bank100000000271",
       "package": null,
-      "isDrActive": false,
+      "isDrActive": true,
       "isWebClientActive": true,
       "webClientUrl": "https://wallet.1cupis.ru/qr"
     },
