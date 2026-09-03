@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-09-02T07:41:06.692Z",
+  "updatedAt": "2026-09-03T07:50:12.524Z",
   "banks": [
     {
       "id": "100000000111",
@@ -108,7 +108,7 @@
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000030.png",
       "schema": "bank100000000030",
       "package": "ru.unicredit.android",
-      "isDrActive": false,
+      "isDrActive": true,
       "isWebClientActive": true,
       "webClientUrl": "https://enter.unicredit.ru/c2b"
     },
