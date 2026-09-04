@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-09-03T07:50:12.524Z",
+  "updatedAt": "2026-09-04T07:45:56.187Z",
   "banks": [
     {
       "id": "100000000111",
@@ -190,7 +190,7 @@
       "package": "ru.bank_hlynov.xbank",
       "isDrActive": true,
       "isWebClientActive": true,
-      "webClientUrl": "https://my.bank-hlynov.ru/sbp/qr"
+      "webClientUrl": "https://xn--i1afg.xn----7sbcg2bhldj1e7c.xn--p1ai/sbp/qr"
     },
     {
       "id": "100000000053",
@@ -1951,6 +1951,16 @@
       "isDrActive": false,
       "isWebClientActive": true,
       "webClientUrl": "https://m.avito.ru/wallet/payment"
+    },
+    {
+      "id": "110000000299",
+      "name": "МБ РУС Банк",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank110000000299.png",
+      "schema": "bank110000000299",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://myweb.mbrus-bank.ru/external/fps"
     }
   ]
 }
