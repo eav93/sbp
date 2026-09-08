@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-09-07T07:59:18.550Z",
+  "updatedAt": "2026-09-08T07:52:11.679Z",
   "banks": [
     {
       "id": "100000000111",
@@ -270,7 +270,7 @@
       "package": "ru.akbars.mobile",
       "isDrActive": true,
       "isWebClientActive": false,
-      "webClientUrl": null
+      "webClientUrl": "https://online.akbars.ru/payments/sbp"
     },
     {
       "id": "100000000098",
