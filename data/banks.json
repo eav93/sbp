@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-09-23T08:19:48.016Z",
+  "updatedAt": "2026-09-24T08:11:47.754Z",
   "banks": [
     {
       "id": "100000000111",
@@ -20,7 +20,7 @@
       "package": "com.idamob.tinkoff.android",
       "isDrActive": true,
       "isWebClientActive": true,
-      "webClientUrl": "https://www.tbank.ru/mybank/payments/qr-pay"
+      "webClientUrl": "https://www.tbank-online.com/mybank/payments/qr-pay"
     },
     {
       "id": "110000000005",
