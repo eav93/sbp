@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-09-24T08:11:47.754Z",
+  "updatedAt": "2026-09-25T08:34:38.226Z",
   "banks": [
     {
       "id": "100000000111",
@@ -679,8 +679,8 @@
       "schema": "bank100000000171",
       "package": "ru.ftc.faktura.maritimebank",
       "isDrActive": false,
-      "isWebClientActive": false,
-      "webClientUrl": null
+      "isWebClientActive": true,
+      "webClientUrl": "https://fl.maritimebank.com/fps/c2b/"
     },
     {
       "id": "100000000064",
