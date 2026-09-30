@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-09-29T09:31:08.691Z",
+  "updatedAt": "2026-09-30T09:22:49.738Z",
   "banks": [
     {
       "id": "100000000111",
@@ -10,7 +10,7 @@
       "package": "ru.sberbankmobile",
       "isDrActive": true,
       "isWebClientActive": false,
-      "webClientUrl": null
+      "webClientUrl": "https://v.sber.ru/sms/sbpqr?params="
     },
     {
       "id": "100000000004",
@@ -953,16 +953,6 @@
       "webClientUrl": "https://www.mbc.nsbank.ru/fps/c2b"
     },
     {
-      "id": "100000000066",
-      "name": "Земский банк",
-      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000066.png",
-      "schema": "bank100000000066",
-      "package": "ru.ftc.faktura.zemskybank",
-      "isDrActive": false,
-      "isWebClientActive": false,
-      "webClientUrl": null
-    },
-    {
       "id": "100000000154",
       "name": "Банк Аверс",
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000154.png",
@@ -1528,7 +1518,7 @@
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000228.png",
       "schema": "bank100000000228",
       "package": "com.priobank.prio",
-      "isDrActive": false,
+      "isDrActive": true,
       "isWebClientActive": false,
       "webClientUrl": null
     },
