@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-10-07T09:55:23.107Z",
+  "updatedAt": "2026-10-08T10:07:28.090Z",
   "banks": [
     {
       "id": "100000000111",
@@ -1489,8 +1489,8 @@
       "schema": "bank100000000149",
       "package": "com.bssys.gutaretail",
       "isDrActive": false,
-      "isWebClientActive": false,
-      "webClientUrl": null
+      "isWebClientActive": true,
+      "webClientUrl": "https://gutapay.ru/external/fps"
     },
     {
       "id": "100000000278",
