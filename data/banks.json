@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-10-08T10:07:28.090Z",
+  "updatedAt": "2026-10-09T10:09:20.492Z",
   "banks": [
     {
       "id": "100000000111",
@@ -1448,7 +1448,7 @@
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000150.png",
       "schema": "bank100000000150",
       "package": "com.yandex.bank",
-      "isDrActive": false,
+      "isDrActive": true,
       "isWebClientActive": true,
       "webClientUrl": "https://yb-payment.ru/a/transfers/landings/nspk"
     },
