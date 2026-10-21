@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-10-20T08:14:20.702Z",
+  "updatedAt": "2026-10-21T08:18:57.584Z",
   "banks": [
     {
       "id": "100000000111",
@@ -1943,10 +1943,10 @@
       "webClientUrl": "https://m.avito.ru/wallet/payment"
     },
     {
-      "id": "110000000299",
+      "id": "100000000299",
       "name": "МБ РУС Банк",
-      "logo": "https://qr.nspk.ru/proxyapp/logo/bank110000000299.png",
-      "schema": "bank110000000299",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000299.png",
+      "schema": "bank100000000299",
       "package": null,
       "isDrActive": false,
       "isWebClientActive": true,
