@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-10-27T08:42:09.152Z",
+  "updatedAt": "2026-10-28T09:21:48.987Z",
   "banks": [
     {
       "id": "100000000111",
@@ -1434,7 +1434,7 @@
     },
     {
       "id": "100000000167",
-      "name": "АКБ ЕВРОФИНАНС МОСНАРБАНК",
+      "name": "АКБ МОСНАРБАНК",
       "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000167.png",
       "schema": "bank100000000167",
       "package": "com.bifit.mobile.citizen.efbank",
