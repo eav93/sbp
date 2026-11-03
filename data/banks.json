@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-11-02T10:37:51.740Z",
+  "updatedAt": "2026-11-03T10:29:53.528Z",
   "banks": [
     {
       "id": "100000000111",
@@ -1940,7 +1940,7 @@
       "package": null,
       "isDrActive": false,
       "isWebClientActive": true,
-      "webClientUrl": "https://m.avito.ru/wallet/payment"
+      "webClientUrl": "https://m.avito.ru/to/wallet/payment"
     },
     {
       "id": "100000000299",
@@ -1951,6 +1951,16 @@
       "isDrActive": false,
       "isWebClientActive": true,
       "webClientUrl": "https://myweb.mbrus-bank.ru/external/fps"
+    },
+    {
+      "id": "100000000055",
+      "name": "Банк Йошкар-Ола",
+      "logo": "https://qr.nspk.ru/proxyapp/logo/bank100000000055.png",
+      "schema": "bank100000000055",
+      "package": null,
+      "isDrActive": false,
+      "isWebClientActive": true,
+      "webClientUrl": "https://app.olabank.ru/qr"
     }
   ]
 }
