@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-11-10T10:49:34.381Z",
+  "updatedAt": "2026-11-11T10:25:34.282Z",
   "banks": [
     {
       "id": "100000000111",
@@ -180,7 +180,7 @@
       "package": "ru.artsofte.russiafl",
       "isDrActive": true,
       "isWebClientActive": true,
-      "webClientUrl": "https://i2.abr.ru/c2b/qr"
+      "webClientUrl": "https://abrdirect.ru/c2b/qr"
     },
     {
       "id": "100000000056",
@@ -269,7 +269,7 @@
       "schema": "bank100000000006",
       "package": "ru.akbars.mobile",
       "isDrActive": true,
-      "isWebClientActive": false,
+      "isWebClientActive": true,
       "webClientUrl": "https://online.akbars.ru/payments/sbp"
     },
     {
