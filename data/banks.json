@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-11-12T10:42:33.030Z",
+  "updatedAt": "2026-11-13T10:38:00.647Z",
   "banks": [
     {
       "id": "100000000111",
@@ -1600,7 +1600,7 @@
       "package": "ru.zhuck.webapp",
       "isDrActive": false,
       "isWebClientActive": true,
-      "webClientUrl": "https://i.tochka.com/a/sbp_c2b"
+      "webClientUrl": "https://tchk.me/static/v1/ui-kit/nspk/?payment=qr"
     },
     {
       "id": "100000000266",
