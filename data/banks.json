@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-11-16T10:42:47.609Z",
+  "updatedAt": "2026-11-17T11:31:10.350Z",
   "banks": [
     {
       "id": "100000000111",
@@ -139,8 +139,8 @@
       "schema": "bank100000000028",
       "package": "ru.avangard.sbp_client",
       "isDrActive": false,
-      "isWebClientActive": false,
-      "webClientUrl": null
+      "isWebClientActive": true,
+      "webClientUrl": "https://ibf.techsitea.ru/qr/payment"
     },
     {
       "id": "100000000086",
@@ -1180,7 +1180,7 @@
       "package": "cb.ibank",
       "isDrActive": false,
       "isWebClientActive": true,
-      "webClientUrl": "https://i.ubrr.ru/pjpmt429"
+      "webClientUrl": "https://www.ub.ltd/pjpmt429"
     },
     {
       "id": "100000000226",
@@ -1519,8 +1519,8 @@
       "schema": "bank100000000228",
       "package": "com.priobank.prio",
       "isDrActive": true,
-      "isWebClientActive": false,
-      "webClientUrl": null
+      "isWebClientActive": true,
+      "webClientUrl": "https://online.priovtb.com/sbp_entry/c2b_sbp"
     },
     {
       "id": "100000000196",
