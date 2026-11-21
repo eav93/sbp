@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-11-20T10:58:22.778Z",
+  "updatedAt": "2026-11-21T10:42:11.102Z",
   "banks": [
     {
       "id": "100000000111",
@@ -9,8 +9,8 @@
       "schema": "bank100000000111",
       "package": "ru.sberbankmobile",
       "isDrActive": true,
-      "isWebClientActive": true,
-      "webClientUrl": "https://v.sber.ru/sms/sbpqr?params="
+      "isWebClientActive": false,
+      "webClientUrl": null
     },
     {
       "id": "100000000004",
